@@ -23,3 +23,15 @@ print my_exponent
 my_modulus = 5 % 2
 print my_modulus
 
+#STRINGS
+name = "Emma"
+age = "21"
+food = "cheese"
+
+print name[3]
+
+print len(food) #exact number of letters
+
+print name.lower()
+
+print food.upper()
